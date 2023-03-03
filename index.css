@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(59, 82, 105);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .header {
+    display: flex;
+    font-size: 49pt;
+    justify-content: center;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    color: aqua;
+  }
+  
+  .container {
+    
+  }
+
+  .card-body {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-items: end;
+  }
+
+  .container_button {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+  }
+
+  .button_add {
+    display: flex;
+    justify-content: center;
+  }
+
