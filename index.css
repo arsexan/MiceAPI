@@ -16,11 +16,17 @@ body {
     
   }
 
+  .card-img-top {
+    border-radius: 25px;
+  }
+
   .card-body {
     background-color: aqua;
     display: flex;
     flex-direction: column;
     justify-items: end;
+    border-radius: 25px;
+    flex-wrap: wrap;
   }
 
   .container_button {
